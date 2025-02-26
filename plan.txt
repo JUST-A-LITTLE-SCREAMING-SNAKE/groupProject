@@ -1,0 +1,13 @@
+GUI - Adam
+Pieces (basic image) - Adam
+CSV file for positions - Max
+
+class for each piece - Izzi
+ - attributes -> movement x, movement y, pixelart
+ - methods -> show_moves(), upgrade() - pawn only - create new instance of piece passed, 
+
+Movement
+ - find possible squares to move to
+ - highlight green
+ - wait until valid square is clicked
+ - check if piece needs to be taken
